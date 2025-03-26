@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://img.shields.io/github/repo-size/GabryB03/CamelTTS"/>
-<img src="https://img.shields.io/github/last-commit/GabryB03/CamelTTS"/>
-<img src="https://img.shields.io/github/downloads/GabryB03/CamelTTS/total"/>
+<img src="https://img.shields.io/github/repo-size/ZygoteCode/CamelTTS"/>
+<img src="https://img.shields.io/github/last-commit/ZygoteCode/CamelTTS"/>
+<img src="https://img.shields.io/github/downloads/ZygoteCode/CamelTTS/total"/>
 </div>
 <div align="center">
-<img src="https://tokei.rs/b1/github/GabryB03/CamelTTS?category=files"/>
-<img src="https://tokei.rs/b1/github/GabryB03/CamelTTS?category=lines"/> 
+<img src="https://tokei.rs/b1/github/ZygoteCode/CamelTTS?category=files"/>
+<img src="https://tokei.rs/b1/github/ZygoteCode/CamelTTS?category=lines"/> 
 </div>
 
 ## :eye: Overview
@@ -20,7 +20,7 @@ This repository hosts a C# Text-To-Speech (TTS) program that leverages the power
 ## :hammer_and_pick: Getting Started
 
 - Download and install the latest [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework) version.
-- Download and unzip the [release](https://github.com/GabryB03/CamelTTS/releases/download/v1/CamelTTS.V1.zip) archive.
+- Download and unzip the [release](https://github.com/ZygoteCode/CamelTTS/releases/download/v1/CamelTTS.V1.zip) archive.
 - Run the `CamelTTS.exe` file.
 
 ## :camera: GUI
