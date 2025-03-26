@@ -38,10 +38,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Guna.UI2">
-      <HintPath>..\..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\CSharpBeautifulThemes\Libraries\Guna.UI\Guna.UI2.dll</HintPath>
+      <HintPath>..\..\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\CSharpBeautifulThemes\Libraries\Guna.UI\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="MetroSuite 2.0">
-      <HintPath>..\..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\CSharpBeautifulThemes\Libraries\MetroSuite\MetroSuite 2.0.dll</HintPath>
+      <HintPath>..\..\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\CSharpBeautifulThemes\Libraries\MetroSuite\MetroSuite 2.0.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Win32.Registry, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>packages\Microsoft.Win32.Registry.4.7.0\lib\net461\Microsoft.Win32.Registry.dll</HintPath>
